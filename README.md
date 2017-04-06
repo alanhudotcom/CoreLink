@@ -2,7 +2,7 @@
 ## Android 开发中的日常积累
 
 >关于我
- - 区长
+ - [Gitbook]https://dodola.gitbooks.io/gitbook/content/
  - [CSDN博客-区长](http://blog.csdn.net/sbsujjbcy)
  - [github博客](https://lizhangqu.github.io/)
  - [新浪微博-_区长](http://www.weibo.com/u/3262478847/home)
